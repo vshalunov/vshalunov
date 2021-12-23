@@ -9,7 +9,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
 
-## <img width="5%" title="Technologies" src="images/logo/technologies.png"> Технологический стек
+## <img width="5%" title="Technologies" src="images/logo/Technologies.png"> Технологический стек
 
 <p align="center">
 <img width="7%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
