@@ -31,7 +31,7 @@
 <p align="center">
 
 [<img title="Telegram" alighn="center" alt="vshalun | Telegram" width="40px" src="https://telegram.org/favicon.ico">](https://t.me/vshalun)
-[<img title="Gmail" alighn="center" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](mailto:-asdori95@gmail.com)
+[<img title="Gmail" alighn="center" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](mailto:asdori95@gmail.com)
 
 </p>
 
