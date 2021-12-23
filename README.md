@@ -26,15 +26,13 @@
 <img width="7%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
+## <img width="5%" title="Technologies" src="images/logo/Technologies.png"> Контакты
+
+[<img title="Telegram" alt="vshalun | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/vshalun)
+[<img title="Telegram" alt="vshalun | Gmail" width="30px" src="https://mail.google.com//favicon.ico">](asdori95@gmail.com) 
+
 <p align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlw-qa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-
-## <img width="5%" title="Technologies" src="images/logo/Technologies.png"> Контакты
-
-[<img title="Telegram" alt="vshalun | Telegram" width="30px" src="https://telegram.org/favicon.ico">](https://t.me/vshalun)
-[<img title="Telegram" alt="vshalun | Telegram" width="30px" src="https://mail.google.com//favicon.ico">](asdori95@gmail.com) 
-
-
