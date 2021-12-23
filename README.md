@@ -28,8 +28,12 @@
 
 ## <img width="5%" title="Technologies" src="images/logo/Technologies.png"> Контакты
 
+<p align="center">
+
 [<img title="Telegram" alt="vshalun | Telegram" width="40px" src="https://telegram.org/favicon.ico">](https://t.me/vshalun)
-[<img title="Telegram" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](asdori95@gmail.com) 
+[<img title="Gmail" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](asdori95@gmail.com)
+
+</p>
 
 <p align="center">
 
