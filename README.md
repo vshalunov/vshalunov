@@ -7,7 +7,7 @@
 На данный момент стоит цель - стать QA Automation Engineer, сейчас активно изучаю Java и прохожу курс по
 автоматизированному тестированию от [QA.GURU](https://qa.guru/)
 
-## <img width="5%" src="images/logo/write.png"> Мои проекты
+## <img width="5%" title="My projects" src="images/logo/write.png"> Мои проекты
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
 
@@ -28,7 +28,7 @@
 <img width="7%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
-## <img width="5%" title="Technologies" src="images/logo/contact.png"> Контакты
+## <img width="5%" title="Contacts" src="images/logo/contact.png"> Контакты
 
 [<img title="Telegram" align="center" alt="vshalun | Telegram" width="45px" src="images/logo/Telegram.svg">](https://t.me/vshalun)
 [<img title="Gmail"  align="center" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](mailto:asdori95@gmail.com)
