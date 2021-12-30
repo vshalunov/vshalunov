@@ -1,4 +1,6 @@
-## Всем привет! :vulcan_salute:
+<p align="center">
+    <img title="Hello!" src="attachments/gif/header.gif">
+</p>
 
 Я имею более 2-х лет опыта ручного тестирования. Занимаюсь обеспечением качества web-приложений.
 
