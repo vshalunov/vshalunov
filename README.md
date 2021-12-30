@@ -30,7 +30,7 @@
 
 ## <img width="5%" title="Technologies" src="images/logo/contact.png"> Контакты
 
-[<img title="Telegram" align="center" alt="vshalun | Telegram" width="43px" src="images/logo/Telegram.svg">](https://t.me/vshalun)
+[<img title="Telegram" align="center" alt="vshalun | Telegram" width="45px" src="images/logo/Telegram.svg">](https://t.me/vshalun)
 [<img title="Gmail"  align="center" alt="vshalun | Gmail" width="40px" src="https://mail.google.com//favicon.ico">](mailto:asdori95@gmail.com)
 
 
