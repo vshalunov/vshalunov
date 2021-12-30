@@ -1,5 +1,5 @@
 <p align="center">
-    <img title="Hello!" src="images/gif/header1.gif">
+    <img title="Hello!" src="images/gif/header.gif">
 </p>
 
 Я имею более 2-х лет опыта ручного тестирования. Занимаюсь обеспечением качества web-приложений.
