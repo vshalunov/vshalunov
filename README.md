@@ -41,3 +41,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlw-qa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+
+<details>
+<summary>::heartbeat:: </summary>
+
+### Спасибо за идею оформления [jjfhj](https://github.com/jjfhj)
+
+
+</details>
