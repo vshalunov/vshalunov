@@ -26,6 +26,8 @@
 <img width="7%" title="Allure TestOps" src="images/logo/Allure_TestOps.svg">
 <img width="7%" title="Telegram" src="images/logo/Telegram.svg">
 <img width="7%" title="Jira" src="images/logo/Jira.svg">
+<img width="7%" title="BrowserStack" src="images/logo/Browserstack.svg">
+<img width="7%" title="Rest Assured" src="images/logo/Rest-Assured.svg">
 </p>
 
 ## <img width="5%" title="Contacts" src="images/logo/contact.png"> Контакты
