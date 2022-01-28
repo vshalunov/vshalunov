@@ -14,22 +14,25 @@
 ## <img width="5%" title="Technologies" src="images/logo/share.png"> Технологический стек
 
 <p align="center">
-<img width="8%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
-<img width="8%" title="Java" src="images/logo/Java.svg">
-<img width="8%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="8%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="8%" title="Docker" src="images/logo/Docker.svg">
-<img width="8%" title="Allure Report" src="images/logo/Allure_Report.svg">
-<img width="8%" title="Gradle" src="images/logo/Gradle.svg">
-<img width="8%" title="JUnit5" src="images/logo/JUnit5.svg">
-<img width="8%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="8%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="8%" title="Allure TestOps" src="images/logo/Allure_TestOps.svg">
-<img width="8%" title="Telegram" src="images/logo/Telegram.svg">
-<img width="8%" title="Jira" src="images/logo/Jira.svg">
-<img width="8%" title="BrowserStack" src="images/logo/Browserstack.svg">
-<img width="8%" title="Rest Assured" src="images/logo/Rest-Assured.svg">
-<img width="8%" title="Appium" src="images/logo/Appium.svg">
+<img width="7%" title="IntelliJ IDEA" src="images/logo/Intelij_IDEA.svg">
+<img width="7%" title="Java" src="images/logo/Java.svg">
+<img width="7%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="7%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="7%" title="Docker" src="images/logo/Docker.svg">
+<img width="7%" title="Allure Report" src="images/logo/Allure_Report.svg">
+<img width="7%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="7%" title="JUnit5" src="images/logo/JUnit5.svg">
+</p>
+
+<p align="center">
+<img width="7%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="7%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="7%" title="Allure TestOps" src="images/logo/Allure_TestOps.svg">
+<img width="7%" title="Telegram" src="images/logo/Telegram.svg">
+<img width="7%" title="Jira" src="images/logo/Jira.svg">
+<img width="7%" title="BrowserStack" src="images/logo/Browserstack.svg">
+<img width="7%" title="Rest Assured" src="images/logo/Rest-Assured.svg">
+<img width="7%" title="Appium" src="images/logo/Appium.svg">
 </p>
 
 ## <img width="5%" title="Contacts" src="images/logo/contact.png"> Контакты
