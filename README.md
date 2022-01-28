@@ -10,6 +10,8 @@
 ## <img width="5%" title="My projects" src="images/logo/write.png"> Мои проекты
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=wikipedia_mobile_test)](https://github.com/zlw-qa/wikipedia_mobile_test)
+
 
 ## <img width="5%" title="Technologies" src="images/logo/share.png"> Технологический стек
 
