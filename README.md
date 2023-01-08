@@ -1,11 +1,3 @@
-<p align="center">
-    <img title="Hello!" src="images/gif/header.gif">
-</p>
-
-Более 2,5 лет занимаюсь обеспечением качества web-приложений. Люблю изучать новые технологии и совершенствовать свои текущие навыки.
-
-На данный момент активно изучаю Java (javarush) и прошел курс по автоматизированному тестированию от [QA.GURU](https://qa.guru/) Успешно применяю полученные навыки на практике как QA Automation.
-
 
 ## <img width="5%" title="My projects" src="images/logo/write.png"> Мои проекты
 
