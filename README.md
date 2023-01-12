@@ -1,9 +1,9 @@
 
 ## <img width="5%" title="My projects" src="images/logo/write.png"> Мои проекты
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=wikipedia_mobile_test)](https://github.com/zlw-qa/wikipedia_mobile_test)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zlw-qa&repo=Book_store_api)](https://github.com/zlw-qa/Book_store_api)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=wikipedia_mobile_test)](https://github.com/zlw-qa/wikipedia_mobile_test)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=Book_store_api)](https://github.com/zlw-qa/Book_store_api)
 
 
 ## <img width="5%" title="Technologies" src="images/logo/share.png"> Технологический стек
@@ -38,6 +38,6 @@
 
 <p align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zlw-qa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlw-qa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
