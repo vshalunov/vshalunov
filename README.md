@@ -38,6 +38,6 @@
 
 <p align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zlw-qa&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vshalunov&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
