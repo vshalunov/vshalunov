@@ -1,9 +1,9 @@
 
 ## <img width="5%" title="My projects" src="images/logo/write.png"> My Projects
 
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=sbermarket_project)](https://github.com/zlw-qa/sbermarket_project)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=wikipedia_mobile_test)](https://github.com/zlw-qa/wikipedia_mobile_test)
-[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zlw-qa&repo=Book_store_api)](https://github.com/zlw-qa/Book_store_api)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vshalunov&repo=sbermarket_project)](https://github.com/vshalunov/sbermarket_project)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vshalunov&repo=wikipedia_mobile_test)](https://github.com/vshalunov/wikipedia_mobile_test)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=vshalunov&repo=Book_store_api)](https://github.com/vshalunov/Book_store_api)
 
 
 ## <img width="5%" title="Technologies" src="images/logo/share.png"> Technology Stack
